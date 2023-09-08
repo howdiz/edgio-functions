@@ -1,0 +1,13 @@
+{
+  "location": "/Users/howie.ross/Repos/hross-ef-big-pic/routes.js",
+  "info": [
+    {
+      "criteria": {
+        "method": "get",
+        "path": "/"
+      },
+      "line": 6,
+      "column": 1
+    }
+  ]
+}
